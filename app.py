@@ -1,4 +1,4 @@
-﻿"""app.py — CineLog Flask application factory"""
+"""app.py — CineLog Flask application factory"""
 
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
